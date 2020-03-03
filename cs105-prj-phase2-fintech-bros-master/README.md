@@ -1,4 +1,4 @@
-# Project Phase 1 - Data Collection and Data Cleaning
+# Project Phase 2 - Data Cleaning and EDA
 
 ## Datasets Used
 
