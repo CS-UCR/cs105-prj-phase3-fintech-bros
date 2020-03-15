@@ -9,7 +9,7 @@ https://www.kaggle.com/aaron7sun/stocknews
 
 # Summary of the Data Analysis Process Performed
 
-I first cleaned the data by deleting any null rows and converting all the headlines to strings and all the numbers to floats. 
+I first cleaned the data by deleting any null rows and converting all the headlines to strings and all the numbers to floats. The first analysis I did was seeing which news sentiment variables and stock price variables were correlated. I then found what the coefficients were various words within the news articles. I looked at what the words with the highest coefficients and the lowest coefficients. I then tested various machine learning models on the data set to see which one was the most accurate. The analysis I did didn't reveal a lot, but I was able to get a small amount of useful information. 
 
 # Results and Observations Obtained
 
