@@ -13,4 +13,4 @@ https://www.kaggle.com/aaron7sun/stocknews
 
 # How to Run Code
 
-````
+On an IDE that can run Python. Like Junyper Notebook.
