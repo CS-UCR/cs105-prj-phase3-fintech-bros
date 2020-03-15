@@ -17,4 +17,4 @@ Something that was revealed within the data was that there isn't that much of a 
 
 # How to Run Code
 
-On an IDE that can run Python. Like Junyper Notebook.
+On an IDE that can run Python. Like Junyper Notebook or JunyperLab.
